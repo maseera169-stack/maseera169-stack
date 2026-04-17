@@ -14,6 +14,3 @@ I’m currently pursuing my MCA at Vidya Vardhaka College of Engineering, passio
 ![](https://github-profile-trophy.vercel.app/?username=maseera-stack&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=maseera-stack&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
