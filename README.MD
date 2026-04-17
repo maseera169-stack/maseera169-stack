@@ -11,6 +11,6 @@ I’m currently pursuing my MCA at Vidya Vardhaka College of Engineering, passio
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=maseera169-stack&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=maseera-stack&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=maseera169-stack&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
